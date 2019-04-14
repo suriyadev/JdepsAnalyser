@@ -11,7 +11,7 @@ public class JDepsAnalyser {
 		BufferedReader reader;
 		try {
 			reader = new BufferedReader(new FileReader(
-					"C:\\Users\\surya\\Desktop\\data.json"));
+					args[0]));
 			String line = reader.readLine();
 			
 			int i = 0;
