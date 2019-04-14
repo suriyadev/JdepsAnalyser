@@ -1,0 +1,1 @@
+java -cp <jar-dependecy-classpath> tools.JDepsAnalyser <target-dir-contaning-jars-to-be-scanned> C:\jdk1.8.0_181\bin
