@@ -1,1 +1,4 @@
 java -cp <jar-dependecy-classpath> tools.JDepsAnalyser <target-dir-contaning-jars-to-be-scanned> C:\jdk1.8.0_181\bin
+
+
+jdeps -cp C:\Users\surya\Desktop\lib\* -recursive -dotoutput C:\Users\surya\Desktop\lib C:\Users\surya\Desktop\lib\jd_v4.jar
